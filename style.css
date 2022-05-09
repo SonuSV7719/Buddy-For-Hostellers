@@ -1,0 +1,11 @@
+.download-srs
+{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+.download-srs:hover
+{
+    color: white;
+}
